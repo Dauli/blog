@@ -13,7 +13,7 @@ then navigate to your project directory with
 - gitbash
 - make sure to have XAMPP server running
 - serve you project: 
-    >php artisan serve
+    `php artisan serve`
     within your bash project directory
 
   then that app will be live under ***localhost:8000***
